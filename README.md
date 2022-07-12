@@ -1,5 +1,5 @@
 # SmartBugs
-This repo abstracts the data, results, and the  our research report on SmartBugs that how we can use this framework to analyze or evaluate the existing mainstream smart contract vulnerability detection tools and to retrieve SC vulnerability datasets. And we are sincerely imdebted to the amazing work by @jff @pedrocrvz who is the establisher of this framework.
+This repo abstracts the data, results, and the commanding codes. Our research report on SmartBugs that how we can use this framework to analyze or evaluate the existing mainstream smart contract vulnerability detection tools and to retrieve SC vulnerability datasets. And we are sincerely imdebted to the amazing work by @jff @pedrocrvz who is the establisher of this framework.
 For more detail about SmartBugs, please see [Github Page](https://github.com/smartbugs)
 
 ## Introduction of this repository
